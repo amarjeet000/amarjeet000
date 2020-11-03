@@ -1,5 +1,5 @@
 ### Hello 👋
-I build things, mostly with Go, Clojure, and Coffee.
+I build things, mostly with Go, Clojure, and Coffee ☕.
 
 In addition to my personal GitHub page, you will find my work at the following places:
 
