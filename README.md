@@ -8,7 +8,7 @@ In addition to my personal GitHub page, you will find my work at the following p
 
 It's been over 5 years since I have been building software. Previously, I did product management and business related things for about 6 years.
 
-The following are known to me. I am either working with them or have worked with them in the past (I might be missing a few):
+The following are known to me. I am either working with them or have worked with them in the past (not a complete list):
 
 - **Languages:** Go, Clojure, ClojureScript
 - **Systems:** Apache Kafka, AWS, Google Cloud Platform (GCP), Kubernetes, Docker, CircleCI, Heroku
