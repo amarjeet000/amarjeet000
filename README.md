@@ -15,3 +15,5 @@ The following are known to me. I am either working with them or have worked with
 - **Databases:** PostgreSQL, CockroachDB, MongoDB, FoundationDB, DynamoDB, Datomic
 
 I am highly interested in Distributed Systems and Decentralized Systems.
+
+To connect with me, please visit [CodeRafting website](https://www.coderafting.com), find my email there, and send me a note 🙂.
