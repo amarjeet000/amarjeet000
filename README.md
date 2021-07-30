@@ -6,9 +6,7 @@ In addition to my personal GitHub page, you will find my work at the following p
 - **Open-source software:** [CodeRafting on GitHub](https://github.com/coderafting)
 - **Articles:** [CodeRafting website](https://www.coderafting.com)
 
-It's been over 5 years since I have been building software. Previously, I did product management and business related things for about 6 years.
-
-The following are known to me. I am either working with them or have worked with them in the past (not a complete list):
+I have worked with the following languages and systems (not a complete list):
 
 - **Languages:** Go, Clojure, ClojureScript
 - **Systems:** Apache Kafka, AWS, Google Cloud Platform (GCP), Kubernetes, Docker, CircleCI, Heroku
